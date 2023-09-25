@@ -1,11 +1,9 @@
 <div align="center" width="50">
-
-<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/github-header-image.png" href="https://github.com/mananbansal2002" alt="Hello Coders" width="70%"/> <br>
+ <br>
 <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mananbansal2002" alt="CoDiNg RocKs"  width="60%"/><br> 
   <br>
-  [![](https://visitcount.itsvg.in/api?id=mananbansal2002&icon=9&color=1)](https://visitcount.itsvg.in)
-<p>    <strong>3rd year BTech student. <br>
-  Competitive Protgrammer :- <i>Expert Codeforces </i> <br>
+<p>    <strong>Final year BTech student. <br>
+  Competitive Protgrammer :- <i>Newbie Codeforces </i> <br>
   Front End Developer
 
 
